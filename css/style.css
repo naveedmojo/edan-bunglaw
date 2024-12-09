@@ -338,13 +338,14 @@ h3 {
 .book_now {
   display: inline-block;
   font-size: 14px;
-  color: #009dff;
+  color: white;
   border: 1px solid #009dff;
   text-transform: capitalize;
   padding: 10px 25px;
+  background-color: black;
 }
 .book_now:hover {
-  background: #009dff;
+  background: #cbac70;
   color: #fff;
 }
 .section_title span {
@@ -1445,7 +1446,7 @@ h3 {
   border: 1px solid #e0e0e0;
 }
 .footer {
-  background: #000;
+  background: #04432e;
 }
 .footer .footer_top {
   padding-top: 145px;
